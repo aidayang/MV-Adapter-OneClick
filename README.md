@@ -17,7 +17,6 @@ Lykon/dreamshaper-xl-1-0梦想塑造者
 
 视频教程：[youtube](https://www.youtube.com/watch?v=eTQA-a9iiGc)
 
-软件常见问题说明：https://nuowa.net/1607
 
 ## MV-Adapter一键启动整合包下载链接
 
